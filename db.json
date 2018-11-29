@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "civilite": {
+        "civilite": "mme"
+      },
+      "nom": {
+        "nom": "Test"
+      },
+      "prenom": {
+        "prenom": "Test"
+      },
+      "email": {
+        "email": "test@test.fr"
+      },
+      "tel": {
+        "tel": "0143056014"
+      },
+      "frameworkChoose": {
+        "frameworkChoose": "symfony"
+      },
+      "message": {
+        "message": "Test"
+      },
+      "id": 1
+    },
+    {
+      "civilite": {
+        "civilite": "mme"
+      },
+      "nom": {
+        "nom": "Test"
+      },
+      "prenom": {
+        "prenom": "Test"
+      },
+      "email": {
+        "email": "test@test.fr"
+      },
+      "tel": {
+        "tel": "1"
+      },
+      "frameworkChoose": {
+        "frameworkChoose": "vue"
+      },
+      "message": {
+        "message": "tEST"
+      },
+      "id": 2
+    }
+  ]
+}
